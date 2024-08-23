@@ -1,25 +1,26 @@
 # Project information
-site_name: mkdocs-material-template
+site_name: Data Science Project's structure
 # defeine TOC or order of website-
 nav:
   - Home: index.md
-  - pag2: page2.md
-  - pag3: page3.md
-  - pag4: page4.md
+  - 1 Creating Repository and Environment: 1_create_repo_env.md
+  - 2 Project folder structure: 2_project_folder_structure.md
+  - 3 Custom Exceptions: 3_custom_exception.md
+  - 4 Custom Logging: 4_custom_logger.md
 
 site_author: Linkan Kumar Sahu
 site_description: >-
   DESCRIPTION
 
 # Repository
-repo_name: sahulinkan7/mkdocs-material-template
-repo_url: https://github.com/sahulinkan7/mkdocs-material-template
+repo_name: sahulinkan7/Datascience_projects_structures
+repo_url: https://github.com/Sahulinkan7/Datascience_projects_structures.git
 
 # Configuration
 theme:
   name: material
   features:
-    - navigation.tabs
+    #- navigation.tabs
     - navigation.sections
     - toc.integrate
     - navigation.top

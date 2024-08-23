@@ -1,6 +1,4 @@
-# mkdocs-material-template
+# Datascience_projects_structures
 mkdocs material template for documentation of projects.
 
-Live project template link : https://sahulinkan7.github.io/mkdocs-material-template/
-
-[click here](https://sahulinkan7.github.io/mkdocs-material-template/) to visit the mkdocs project template.
+Live project template link : [click here](https://sahulinkan7.github.io/Datascience_projects_structures/)
