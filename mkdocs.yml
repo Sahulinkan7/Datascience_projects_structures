@@ -3,7 +3,7 @@ site_name: Data Science Project's structure
 # defeine TOC or order of website-
 nav:
   - Home: index.md
-  - 1 Creating Repository and Environment: 1_create_repo_env.md
+  - 1 Github Repo & Virtual Environment: 1_create_repo_env.md
   - 2 Project folder structure: 2_project_folder_structure.md
   - 3 Custom Exceptions: 3_custom_exception.md
   - 4 Custom Logging: 4_custom_logger.md

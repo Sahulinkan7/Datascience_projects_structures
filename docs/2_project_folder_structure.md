@@ -68,3 +68,26 @@ Step 2 : Run the "template.py" script file from terminal . It will create the ba
 ```python
     python template.py
 ```
+### 2.2 Installing libraries in Virtual Environment
+
+To install libraries in virtual environment , must activate the virtual environemnt first.
+
+for command prompt and powershell terminal
+
+```python
+conda activate virtual_env_name/
+```
+
+for git bash or linux based terminal 
+
+```python
+source activate virtual_env_name/
+```
+
+Now add required libraries name and its version in "requirements.txt" file and run below command.
+
+```python
+pip install -r requirements.txt
+```
+
+This above command will read the requirements from "requirements.txt" file and install all packages in virtual environment.
