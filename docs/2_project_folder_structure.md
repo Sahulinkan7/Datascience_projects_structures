@@ -75,13 +75,13 @@ To install libraries in virtual environment , must activate the virtual environe
 for command prompt and powershell terminal
 
 ```python
-conda activate virtual_env_name/
+conda activate virtual_env_path/
 ```
 
 for git bash or linux based terminal 
 
 ```python
-source activate virtual_env_name/
+source activate virtual_env_path/
 ```
 
 Now add required libraries name and its version in "requirements.txt" file and run below command.
