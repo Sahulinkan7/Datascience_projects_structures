@@ -1,7 +1,7 @@
-### Below given code is for creating custom logger for project.
+Below given code is for creating custom logger for project.
 
 Step : Go to project source code directory > logger folder >  "\__init__.py" and then copy and paste below code. Custom logging message and logs folder & file structure can be modified as required . 
- 
+
 ```python
 import os
 import logging
